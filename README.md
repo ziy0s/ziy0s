@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">  Hi 👋 , I am Aissi Zakaria</h1>
+<div align="center">
+  <a href="<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zaissi" alt="zaissi's 42 stats"  /></a>
+  </div>
+  
+| ![ziy0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziy0s&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziy0s&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
+  |:-:|:-:|
+
+  ---
