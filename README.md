@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm ZAKARIA AISSI (ziyos) 👋
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/zaissi" alt="42 Stats" width="200" align="right"></a>
-
 ### 🚀 1337 Coding School Student & UI/UX Enthusiast
 
 I'm a passionate coder and design enthusiast currently studying at [1337 Coding School](https://1337.ma/). My journey revolves around creating beautiful and functional digital experiences through code and design.
