@@ -75,14 +75,6 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
   </tr>
 </table>
 
