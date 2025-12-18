@@ -58,12 +58,8 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
       <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="C" />
+      <br>Rust
     </td>
     <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="JS" />
