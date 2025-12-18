@@ -65,17 +65,6 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
       <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="JS" />
       <br>JS
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-  </tr>
 </table>
 
 ---
