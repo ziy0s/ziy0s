@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🚀 1337 Coding School Student
 
-I'm a passionate coder and design enthusiast currently studying at [1337 Coding School](https://1337.ma/). My journey revolves around creating beautiful and functional digital experiences through code and design.
+I'm a passionate coder and CTF player at [1337 Coding School](https://1337.ma/). My journey revolves around creating beautiful and functional digital experiences through code and hacking.
 
 ---
 
