@@ -34,7 +34,7 @@ I'm a passionate coder and CTF player at [1337 Coding School](https://1337.ma/).
       - ☠️ Read Team, Penetration tester and I love CTF "Boot_To_Root exact ;)"</br>
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!+From+ziyos;ziyos+is+here+to+wolcome+you;Hack+with+passion+and+purpose;Code+With+Purpose;Design+With+Passion;Python+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!+From+ziyos;ziyos+is+here+to+wolcome+you;Hack+with+passion+and+purpose;Code+With+Purpose" alt="Typing SVG" />
     </td>
   </tr>
 </table>
