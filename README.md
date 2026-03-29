@@ -1,109 +1,98 @@
-## Hi there 👋
-
 <!--
-**ziy0s/ziy0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ziy0s/ziy0s** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->👋 Hi, I'm Zakaria Aissi (ziy0s)
 
-Here are some ideas to get you started:
+🚀 1337 Coding School Student | Low-Level Enthusiast | CTF Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm ZAKARIA AISSI (ziyos) 👋
-
-### 🚀 1337 Coding School Student
-
-I'm a passionate coder and CTF player at [1337 Coding School](https://1337.ma/). My journey revolves around creating beautiful and functional digital experiences through code and hacking.
+I'm a passionate developer focused on low-level programming, system internals, and cybersecurity.
+I love understanding how things work under the hood and pushing systems to their limits.
 
 ---
 
-## 🎯 Current Focus
+🧠 About Me
 
-<table width="100%">
-  <tr>
-    <td width="60%">
-      - 💻 Mastering <strong>C</strong>,<strong>Python</strong><br>,<strong>PHP</strong> & <strong>JS</strong> </br>
-      - 🐧 System Admin <strong>Shell</strong> </br>
-      - 🌐 Network Engineer </br>
-      - ☠️ Read Team, Penetration tester and I love CTF "Boot_To_Root exact ;)"</br>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!+From+ziyos;ziyos+is+here+to+wolcome+you;Hack+with+passion+and+purpose;Code+With+Purpose" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+- 💻 Specialized in C / C++
+- 🐧 Linux & system-level programming enthusiast
+- 🔐 Passionate about Cybersecurity & CTFs (Boot2Root, Reverse, Pwn)
+- ⚙️ Love working close to hardware, memory, and performance
+- 🧩 Problem solver who enjoys complex challenges
 
 ---
 
-## 🛠 Tech Stack
+🎯 Current Focus
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/svg/Linux.svg" width="48" height="48" alt="Unix-Linux" />
-      <br>Unix and Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="48" height="48" alt="Shell" />
-      <br>Shell
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="C" />
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="JS" />
-      <br>JS
-    </td>
-</table>
+- Mastering:     C / C++ / Python / PHP / JavaScript
+- System:        Linux, Shell, System Administration
+- Networking:    Network Engineering fundamentals
+- Security:      Red Teaming, Penetration Testing
+- CTF:           Boot2Root, Exploitation, Reverse Engineering
 
 ---
 
-## 📊 GitHub Analytics
+🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziy0s&show_icons=true&theme=radical&include_all_commits=true" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziy0s&layout=compact&theme=radical&langs_count=6&hide=procfile" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziy0s&theme=redical&area=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,bash,linux,rust" />
+</p>---
+
+🔥 Top Projects
+
+Here are some of my highlighted repositories:
+
+- 🚀 "libft" (https://github.com/ziy0s/libft)
+  Custom implementation of standard C library functions.
+
+- 🧠 "ft_printf" (https://github.com/ziy0s/ft_printf)
+  Rebuilding printf from scratch with variadic functions.
+
+- 📂 "get_next_line" (https://github.com/ziy0s/get_next_line)
+  Efficient file reading line by line.
+
+- 🕹️ "so_long" (https://github.com/ziy0s/so_long)
+  Small 2D game project using graphics and game logic.
+
+«⚡ These projects reflect my focus on low-level control, memory management, and performance.»
 
 ---
 
-## 🌐 Let's Connect
+🏴‍☠️ CTF & Security
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ziy0s">
-        <img src="https://img.icons8.com/3d-fluency/94/github.png" width="64" alt="GitHub"/>
-        <br>GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://profile.intra.42.fr/users/zaissi">
-        <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-42-a-private-computer-engineering-institution-in-paris-logo-filled-tal-revivo.png" width="64" alt="42 Intra"/>
-        <br>42 Intra
-      </a>
-    </td>
-  </tr>
-</table>
+- 🧪 Active CTF player
+- 💣 Interested in:
+  - Web Hacking
+  - Reverse Engineering
+  - Privilege Escalation
+  - Malware Development
+- 🧠 Learning how attackers think to build better defenses
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziy0s&show_icons=true&theme=radical&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziy0s&layout=compact&theme=radical" height="160"/>
+</p><p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziy0s&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ziy0s">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="60"/>
+  </a>
+  <a href="https://profile.intra.42.fr/users/zaissi">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-42-a-private-computer-engineering-institution-in-paris-logo-filled-tal-revivo.png" width="60"/>
+  </a>
+</p>---
+
+🛠️ Philosophy
+
+«"Make each program do one thing well — and connect them together."»
+
+---
+
+⭐ Always learning. Always building. Always hacking (ethically).
