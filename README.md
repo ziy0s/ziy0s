@@ -62,20 +62,20 @@ I love understanding how things work under the hood and pushing systems to their
 
 Here are some of my highlighted repositories:
 
-- 🦠 "Dealer" (https://github.com/ziy0s/libft)
-  Portable rusamware for Linux writing by C/C++ lang.
+- 🦠 [[Dealer](https://github.com/ziy0s/Dealer)]
+  => Portable rusamware for Linux writing by C/C++ lang.
 
-- 🚀 "libft" (https://github.com/ziy0s/libft)
-  Custom implementation of standard C library functions.
+- 🚀 [[libft](https://github.com/ziy0s/libft)]
+  => Custom implementation of standard C library functions.
 
-- 🧠 "ft_printf" (https://github.com/ziy0s/ft_printf)
-  Rebuilding printf from scratch with variadic functions.
+- 🧠 [[ft_printf](https://github.com/ziy0s/ft_printf)]
+  => Rebuilding printf from scratch with variadic functions.
 
-- 📂 "get_next_line" (https://github.com/ziy0s/get_next_line)
-  Efficient file reading line by line.
+- 📂 [[get_next_line](https://github.com/ziy0s/get_next_line)]
+  => Efficient file reading line by line.
 
-- 🕹️ "so_long" (https://github.com/ziy0s/so_long)
-  Small 2D game project using graphics and game logic.
+- 🕹️ [[so_long](https://github.com/ziy0s/so_long)]
+  => Small 2D game project using graphics and game logic.
 
 «⚡ These projects reflect my focus on low-level control, memory management, and performance.»
 
