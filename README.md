@@ -62,6 +62,9 @@ I love understanding how things work under the hood and pushing systems to their
 
 Here are some of my highlighted repositories:
 
+- 🌐 [[WebServ](https://github.com/ziy0s/WebServ)]
+  => HTTP Web Server build from scratch (For BSD based system)
+
 - 🦠 [[Dealer](https://github.com/ziy0s/Dealer)]
   => Portable rusamware for Linux writing by C/C++ lang.
 
