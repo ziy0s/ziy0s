@@ -2,6 +2,9 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">ziyos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/zaissi" alt="zaissi's 42 stats" /></a>
+
 <p align="center">
   <a href="https://www.youtube.com/@ziyos-zakaria"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
