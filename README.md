@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@ziyos-zakaria"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://www.youtube.com/@ziyos-zakaria"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.linkedin.com/in/ZAKARAI-AISSI/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/zakariaziyos1"><img width="32px" alt="Twitter" title="Twitter" src="https://img.freepik.com/premium-psd/twitter-new-icon-isolated-white-background-x-letter-logotype-social-media-app-button-logo-sign_989822-4761.jpg"/></a>
